@@ -1,0 +1,18 @@
+@media (min-width: 768px) {
+  .banner-head {
+    height: 600px;
+    background: url("../img/328105074_1358241104992182_8512064995689868489_n.jpg") right / cover !important;
+  }
+}
+
+@media (max-width: 766px) {
+  .banner-head {
+    height: 600px;
+    background: url("../img/328045537_746207406927734_1049411781890084458_n.jpg") right / cover !important;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
